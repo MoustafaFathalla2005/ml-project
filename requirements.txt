@@ -1,5 +1,6 @@
 absl-py
 appdirs
+scikit-learn
 astunparse
 atomicwrites
 blis

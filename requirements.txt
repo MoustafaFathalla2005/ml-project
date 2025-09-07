@@ -2,6 +2,8 @@ absl-py
 appdirs
 scikit-learn
 astunparse
+scikit-learn==1.3.2
+
 atomicwrites
 blis
 catalogue
